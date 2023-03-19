@@ -3,4 +3,12 @@
 
 # But not these files & folders
 !.gitignore
+!.browserslistrc
 !README.md
+!package.json
+!angular.json
+!tsconfig.json
+!tsconfig.spec.json
+!tsconfig.app.json
+!src/
+!dist/
