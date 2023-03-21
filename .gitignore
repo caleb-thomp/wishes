@@ -12,3 +12,4 @@
 !tsconfig.app.json
 !src/
 !dist/
+!karma.conf.js
