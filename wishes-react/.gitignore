@@ -1,9 +1,10 @@
 # Ignore everything
 /*
 
-!wishes-react/
+# But not these files & folders
 !.gitignore
-!.alias.sh
-!.funcs.sh
 !README.md
 !package.json
+!src/
+!public/
+!build/
