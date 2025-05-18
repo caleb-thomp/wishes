@@ -1,9 +1,5 @@
-# Wishes
+# Wishes FlutterFlow Branch
 
 Wishes lets users manage their wishlists from multiple stores.
 
-## Branches
-
-- main
-- flutterflow
-- node
+This is the FlutterFlow branch.
